@@ -1,2 +1,2 @@
 # Voting-System
-An Zmazing Voting System. 
+An Amazing Voting System. 
